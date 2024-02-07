@@ -1,6 +1,7 @@
 # todo_app
 
-A new Flutter project.
+This is a todo app where user can add & remove their task. 
+This app is built on flutter,dart and firebase.
 
 ## Getting Started
 
